@@ -1,8 +1,0 @@
-{
-  "deps": {
-    "bump": "inherit",
-    "release": "inherit"
-  },
-  "ignorePrivate": false,
-  "tagFormat": "${name}@${version}"
-}
