@@ -1,3 +1,10 @@
+## @brianzhu/web [1.0.2](https://github.com/nong824/monorepo-test/compare/@brianzhu/web@1.0.1...@brianzhu/web@1.0.2) (2026-10-11)
+
+
+### Dependencies
+
+* **@brianzhu/ui:** upgraded to 1.0.1
+
 ## @brianzhu/web [1.0.1](https://github.com/nong824/monorepo-test/compare/@brianzhu/web@1.0.0...@brianzhu/web@1.0.1) (2026-10-11)
 
 
