@@ -1,8 +1,10 @@
 {
   "name": "@brianzhu/web",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
@@ -19,7 +21,7 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@brianzhu/ui": "workspace:*",
+    "@brianzhu/ui": "1.0.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {
