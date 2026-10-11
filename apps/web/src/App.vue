@@ -7,7 +7,7 @@ const count = ref(0)
 
 <template>
   <main class="page">
-    <h1>web</h1>
+    <h1>Web</h1>
     <UiCard title="Shared UI from @brianzhu/ui">
       <p>This card and the button below come from packages/ui.</p>
       <UiButton @click="count++">clicked {{ count }} times</UiButton>

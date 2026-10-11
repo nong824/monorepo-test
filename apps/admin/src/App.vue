@@ -14,7 +14,7 @@ const users = ref(['alice', 'bob', 'carol'])
         <li v-for="user in users" :key="user">{{ user }}</li>
       </ul>
       <UiButton variant="secondary" @click="users.push(`user-${users.length + 1}`)">
-        add user
+        test add user
       </UiButton>
     </UiCard>
   </main>

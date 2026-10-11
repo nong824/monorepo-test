@@ -15,7 +15,7 @@ defineProps<{
 
 <style scoped>
 .ui-card {
-  padding: 16px;
+  padding: 14px;
   border: 1px solid #e5e7eb;
   border-radius: 10px;
   background: #fff;
