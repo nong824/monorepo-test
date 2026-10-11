@@ -1,3 +1,10 @@
+## @brianzhu/admin [1.0.2](https://github.com/nong824/monorepo-test/compare/@brianzhu/admin@1.0.1...@brianzhu/admin@1.0.2) (2026-10-11)
+
+
+### Dependencies
+
+* **@brianzhu/ui:** upgraded to 1.0.1
+
 ## @brianzhu/admin [1.0.1](https://github.com/nong824/monorepo-test/compare/@brianzhu/admin@1.0.0...@brianzhu/admin@1.0.1) (2026-10-11)
 
 
