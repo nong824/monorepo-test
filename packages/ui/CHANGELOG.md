@@ -1,5 +1,11 @@
 ## @brianzhu/ui [1.0.1](https://github.com/nong824/monorepo-test/compare/@brianzhu/ui@1.0.0...@brianzhu/ui@1.0.1) (2026-10-11)
 
+## 1.1.0
+
+### Minor Changes
+
+- 4138003: 测试更新
+
 
 ### Bug Fixes
 

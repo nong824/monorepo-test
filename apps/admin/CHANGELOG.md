@@ -1,5 +1,16 @@
 ## @brianzhu/admin [1.0.2](https://github.com/nong824/monorepo-test/compare/@brianzhu/admin@1.0.1...@brianzhu/admin@1.0.2) (2026-10-11)
 
+## 1.1.0
+
+### Minor Changes
+
+- 4138003: 测试更新
+
+### Patch Changes
+
+- Updated dependencies [4138003]
+  - @brianzhu/ui@1.1.0
+
 
 ### Dependencies
 
